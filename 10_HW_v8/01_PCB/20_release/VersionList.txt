@@ -1,0 +1,10 @@
+01.04.2025, AGILAN V S
+------------------------
+
+01.04.2025 - NE555 Blinking LED, Version 0.1
+-----------------------------------------------
+Feature: 52mm x 25mm dimension board, 4 x M3 mounting holes, 2 copper layers PCB
+
+02.04.2025 - NE555 Blinking LED, Version 0.2
+-----------------------------------------------
+Feature: 52mm x 25mm dimension board, 4 x M3 mounting holes, 2 copper layers PCB
