@@ -1,0 +1,19 @@
+02.04.2025, AGILAN V S
+------------------------
+
+001:
+#####
+Board Dimension: 52mm x 25mm
+Mounting holes: 4 x M3
+Layers: 2 copper layers
+Top Layer: Signal routing
+Bottom Layer: GND - plane
+
+002:
+#####
+Board Dimension: 52mm x 25mm
+Mounting holes: 4 x M3
+Layers: 2 copper layers
+Top Layer: Signal routing
+Bottom Layer: GND - plane and VDC
+SMD Devices for R1 and LED1 with footprints LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder and R_1206_3216Metric_Pad1.42x1.75mm_HandSolder
